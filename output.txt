@@ -1,0 +1,606 @@
+Skipping invalid Parallelogram: [0.0, 8.0, 21.0]
+Error processing line: Triangle   14   16    0 - Invalid triangle sides: 14.0, 16.0, 0.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   25   11    3 - Invalid triangle sides: 25.0, 11.0, 3.0
+Error processing line: Triangle    8    9   18 - Invalid triangle sides: 8.0, 9.0, 18.0
+Error processing line: Triangle    1   13   11 - Invalid triangle sides: 1.0, 13.0, 11.0
+Error processing line: Triangle    9   12   22 - Invalid triangle sides: 9.0, 12.0, 22.0
+Error processing line: Triangle    0    1   10 - Invalid triangle sides: 0.0, 1.0, 10.0
+Error processing line: Triangle    3   20    6 - Invalid triangle sides: 3.0, 20.0, 6.0
+Error processing line: Triangle    6   21    9 - Invalid triangle sides: 6.0, 21.0, 9.0
+Error processing line: Triangle    0   20   18 - Invalid triangle sides: 0.0, 20.0, 18.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   13    5   25 - Invalid triangle sides: 13.0, 5.0, 25.0
+Error processing line: Triangle   20    6    2 - Invalid triangle sides: 20.0, 6.0, 2.0
+Error processing line: Triangle    7    6   13 - Invalid triangle sides: 7.0, 6.0, 13.0
+Skipping invalid Trapeze: [12.0, 25.0, 0.0, 21.0]
+Error processing line: Triangle    7   21   13 - Invalid triangle sides: 7.0, 21.0, 13.0
+Error processing line: Triangle   19    6    2 - Invalid triangle sides: 19.0, 6.0, 2.0
+Error processing line: Triangle   22    7   13 - Invalid triangle sides: 22.0, 7.0, 13.0
+Skipping invalid Parallelogram: [17.0, 9.0, 0.0]
+Error processing line: Triangle   21    1    6 - Invalid triangle sides: 21.0, 1.0, 6.0
+Error processing line: Triangle    6   25    1 - Invalid triangle sides: 6.0, 25.0, 1.0
+Error processing line: Triangle    3   14    0 - Invalid triangle sides: 3.0, 14.0, 0.0
+Skipping invalid Parallelogram: [10.0, 0.0, 18.0]
+Error processing line: Triangle   15    0   15 - Invalid triangle sides: 15.0, 0.0, 15.0
+Skipping invalid Trapeze: [10.0, 0.0, 20.0, 5.0]
+Error processing line: Triangle    0   11   25 - Invalid triangle sides: 0.0, 11.0, 25.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   25    5    5 - Invalid triangle sides: 25.0, 5.0, 5.0
+Error processing line: Triangle   13    1   25 - Invalid triangle sides: 13.0, 1.0, 25.0
+Error processing line: Triangle    5   13    7 - Invalid triangle sides: 5.0, 13.0, 7.0
+Error processing line: Triangle   20    3    0 - Invalid triangle sides: 20.0, 3.0, 0.0
+Skipping invalid Parallelogram: [1.0, 0.0, 24.0]
+Error processing line: Triangle    9   25   11 - Invalid triangle sides: 9.0, 25.0, 11.0
+Skipping invalid Rectangle: [0.0, 22.0]
+Error processing line: Triangle    3   10   14 - Invalid triangle sides: 3.0, 10.0, 14.0
+Skipping invalid Trapeze: [2.0, 2.0, 0.0, 17.0]
+Error processing line: Triangle    8    6   22 - Invalid triangle sides: 8.0, 6.0, 22.0
+Error processing line: Triangle    1   13   24 - Invalid triangle sides: 1.0, 13.0, 24.0
+Error processing line: Triangle    1   13   18 - Invalid triangle sides: 1.0, 13.0, 18.0
+Error processing line: Triangle    2   19   13 - Invalid triangle sides: 2.0, 19.0, 13.0
+Error processing line: Triangle   20   15    4 - Invalid triangle sides: 20.0, 15.0, 4.0
+Skipping invalid Parallelogram: [0.0, 8.0, 11.0]
+Error processing line: Triangle   11   25    5 - Invalid triangle sides: 11.0, 25.0, 5.0
+Error processing line: Triangle   18    4    2 - Invalid triangle sides: 18.0, 4.0, 2.0
+Error processing line: Triangle    4    1   23 - Invalid triangle sides: 4.0, 1.0, 23.0
+Skipping invalid Parallelogram: [0.0, 16.0, 7.0]
+Error processing line: Triangle    0    2   24 - Invalid triangle sides: 0.0, 2.0, 24.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Parallelogram: [6.0, 18.0, 0.0]
+Skipping invalid Trapeze: [15.0, 0.0, 1.0, 16.0]
+Error processing line: Triangle    5    7   23 - Invalid triangle sides: 5.0, 7.0, 23.0
+Error processing line: Triangle    9    9   25 - Invalid triangle sides: 9.0, 9.0, 25.0
+Skipping invalid Trapeze: [25.0, 9.0, 0.0, 0.0]
+Skipping invalid Rectangle: [2.0, 0.0]
+Skipping invalid Trapeze: [18.0, 0.0, 25.0, 0.0]
+Error processing line: Triangle   22   16    4 - Invalid triangle sides: 22.0, 16.0, 4.0
+Error processing line: Triangle    8    6    0 - Invalid triangle sides: 8.0, 6.0, 0.0
+Error processing line: Triangle    7   13    5 - Invalid triangle sides: 7.0, 13.0, 5.0
+Error processing line: Triangle    2    4   20 - Invalid triangle sides: 2.0, 4.0, 20.0
+Error processing line: Triangle   16   12    0 - Invalid triangle sides: 16.0, 12.0, 0.0
+Error processing line: Triangle    1   13    8 - Invalid triangle sides: 1.0, 13.0, 8.0
+Error processing line: Triangle   12    3   22 - Invalid triangle sides: 12.0, 3.0, 22.0
+Skipping invalid Rectangle: [0.0, 2.0]
+Skipping invalid Parallelogram: [12.0, 12.0, 0.0]
+Skipping invalid Trapeze: [5.0, 13.0, 21.0, 0.0]
+Skipping invalid Trapeze: [0.0, 1.0, 2.0, 15.0]
+Error processing line: Triangle   11    3   15 - Invalid triangle sides: 11.0, 3.0, 15.0
+Skipping invalid Parallelogram: [0.0, 5.0, 17.0]
+Error processing line: Triangle   12    4    1 - Invalid triangle sides: 12.0, 4.0, 1.0
+Error processing line: Triangle   14   23    5 - Invalid triangle sides: 14.0, 23.0, 5.0
+Error processing line: Triangle   15    3    4 - Invalid triangle sides: 15.0, 3.0, 4.0
+Error processing line: Triangle   15    8    1 - Invalid triangle sides: 15.0, 8.0, 1.0
+Error processing line: Triangle   18    6    6 - Invalid triangle sides: 18.0, 6.0, 6.0
+Error processing line: Triangle    1    8    6 - Invalid triangle sides: 1.0, 8.0, 6.0
+Error processing line: Triangle    2   24   13 - Invalid triangle sides: 2.0, 24.0, 13.0
+Skipping invalid Rectangle: [16.0, 0.0]
+Error processing line: Triangle   24   12    2 - Invalid triangle sides: 24.0, 12.0, 2.0
+Error processing line: Triangle    4    5   21 - Invalid triangle sides: 4.0, 5.0, 21.0
+Error processing line: Triangle    5   10   25 - Invalid triangle sides: 5.0, 10.0, 25.0
+Error processing line: Triangle    6    3   25 - Invalid triangle sides: 6.0, 3.0, 25.0
+Error processing line: Triangle    5    4   24 - Invalid triangle sides: 5.0, 4.0, 24.0
+Skipping invalid Parallelogram: [0.0, 17.0, 0.0]
+Error processing line: Triangle   16    7    2 - Invalid triangle sides: 16.0, 7.0, 2.0
+Error processing line: Triangle    5   24   15 - Invalid triangle sides: 5.0, 24.0, 15.0
+Error processing line: Triangle   13   11   24 - Invalid triangle sides: 13.0, 11.0, 24.0
+Error processing line: Triangle    4   22   11 - Invalid triangle sides: 4.0, 22.0, 11.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Rectangle: [18.0, 0.0]
+Skipping invalid Rectangle: [11.0, 0.0]
+Skipping invalid Rectangle: [21.0, 0.0]
+Error processing line: Triangle    5    7   19 - Invalid triangle sides: 5.0, 7.0, 19.0
+Skipping invalid Parallelogram: [4.0, 17.0, 0.0]
+Error processing line: Triangle   18   20    2 - Invalid triangle sides: 18.0, 20.0, 2.0
+Skipping invalid Parallelogram: [13.0, 7.0, 0.0]
+Error processing line: Triangle   23    2   18 - Invalid triangle sides: 23.0, 2.0, 18.0
+Error processing line: Triangle   20    2   13 - Invalid triangle sides: 20.0, 2.0, 13.0
+Skipping invalid Trapeze: [0.0, 22.0, 3.0, 18.0]
+Error processing line: Triangle   10    1   16 - Invalid triangle sides: 10.0, 1.0, 16.0
+Skipping invalid Trapeze: [1.0, 20.0, 1.0, 0.0]
+Skipping invalid Parallelogram: [0.0, 17.0, 5.0]
+Skipping invalid Rectangle: [0.0, 21.0]
+Error processing line: Triangle    0    6    6 - Invalid triangle sides: 0.0, 6.0, 6.0
+Error processing line: Triangle   10    1    3 - Invalid triangle sides: 10.0, 1.0, 3.0
+Error processing line: Triangle   11    0   24 - Invalid triangle sides: 11.0, 0.0, 24.0
+Error processing line: Triangle    8    3   18 - Invalid triangle sides: 8.0, 3.0, 18.0
+Error processing line: Triangle   12   25    1 - Invalid triangle sides: 12.0, 25.0, 1.0
+Error processing line: Triangle   12    1    8 - Invalid triangle sides: 12.0, 1.0, 8.0
+Error processing line: Triangle   25    8   17 - Invalid triangle sides: 25.0, 8.0, 17.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Parallelogram: [18.0, 0.0, 20.0]
+Error processing line: Triangle    6   20    3 - Invalid triangle sides: 6.0, 20.0, 3.0
+Skipping invalid Parallelogram: [22.0, 0.0, 15.0]
+Skipping invalid Trapeze: [4.0, 2.0, 0.0, 3.0]
+Skipping invalid Trapeze: [17.0, 5.0, 17.0, 0.0]
+Error processing line: Triangle    5   25    6 - Invalid triangle sides: 5.0, 25.0, 6.0
+Error processing line: Triangle    5   21   12 - Invalid triangle sides: 5.0, 21.0, 12.0
+Error processing line: Triangle    5    0    1 - Invalid triangle sides: 5.0, 0.0, 1.0
+Skipping invalid Parallelogram: [0.0, 8.0, 20.0]
+Error processing line: Triangle   16    4    0 - Invalid triangle sides: 16.0, 4.0, 0.0
+Error processing line: Triangle    0    1   25 - Invalid triangle sides: 0.0, 1.0, 25.0
+Error processing line: Triangle   24    8    2 - Invalid triangle sides: 24.0, 8.0, 2.0
+Error processing line: Triangle    5   12    1 - Invalid triangle sides: 5.0, 12.0, 1.0
+Error processing line: Triangle   12    5   22 - Invalid triangle sides: 12.0, 5.0, 22.0
+Error processing line: Triangle   16    5    5 - Invalid triangle sides: 16.0, 5.0, 5.0
+Error processing line: Triangle    1   20   17 - Invalid triangle sides: 1.0, 20.0, 17.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   13   10   24 - Invalid triangle sides: 13.0, 10.0, 24.0
+Skipping invalid Rectangle: [0.0, 4.0]
+Error processing line: Triangle    5    2   15 - Invalid triangle sides: 5.0, 2.0, 15.0
+Error processing line: Triangle    4   13    9 - Invalid triangle sides: 4.0, 13.0, 9.0
+Error processing line: Triangle   22   10   10 - Invalid triangle sides: 22.0, 10.0, 10.0
+Skipping invalid Trapeze: [21.0, 23.0, 22.0, 0.0]
+Error processing line: Triangle   23    2   16 - Invalid triangle sides: 23.0, 2.0, 16.0
+Skipping invalid Parallelogram: [21.0, 0.0, 10.0]
+Error processing line: Triangle   11   17    2 - Invalid triangle sides: 11.0, 17.0, 2.0
+Skipping invalid Trapeze: [0.0, 19.0, 4.0, 8.0]
+Skipping invalid Rectangle: [8.0, 0.0]
+Error processing line: Triangle    3   11    4 - Invalid triangle sides: 3.0, 11.0, 4.0
+Skipping invalid Parallelogram: [14.0, 12.0, 0.0]
+Error processing line: Triangle   17    1   20 - Invalid triangle sides: 17.0, 1.0, 20.0
+Error processing line: Triangle    1    4   24 - Invalid triangle sides: 1.0, 4.0, 24.0
+Error processing line: Triangle    8    5   13 - Invalid triangle sides: 8.0, 5.0, 13.0
+Error processing line: Triangle    9   16    7 - Invalid triangle sides: 9.0, 16.0, 7.0
+Error processing line: Triangle    4    3   19 - Invalid triangle sides: 4.0, 3.0, 19.0
+Skipping invalid Trapeze: [1.0, 14.0, 1.0, 0.0]
+Error processing line: Triangle   19   10    8 - Invalid triangle sides: 19.0, 10.0, 8.0
+Error processing line: Triangle    7   14    4 - Invalid triangle sides: 7.0, 14.0, 4.0
+Error processing line: Triangle    1   11    4 - Invalid triangle sides: 1.0, 11.0, 4.0
+Skipping invalid Parallelogram: [6.0, 22.0, 0.0]
+Skipping invalid Parallelogram: [14.0, 8.0, 0.0]
+Error processing line: Triangle   18   20    0 - Invalid triangle sides: 18.0, 20.0, 0.0
+Error processing line: Triangle   14   21    0 - Invalid triangle sides: 14.0, 21.0, 0.0
+Error processing line: Triangle    1    8    2 - Invalid triangle sides: 1.0, 8.0, 2.0
+Error processing line: Triangle   24   20    0 - Invalid triangle sides: 24.0, 20.0, 0.0
+Error processing line: Triangle    9    5   16 - Invalid triangle sides: 9.0, 5.0, 16.0
+Error processing line: Triangle    7    3    3 - Invalid triangle sides: 7.0, 3.0, 3.0
+Error processing line: Triangle    8    6   19 - Invalid triangle sides: 8.0, 6.0, 19.0
+Error processing line: Triangle    0    2    1 - Invalid triangle sides: 0.0, 2.0, 1.0
+Skipping invalid Parallelogram: [12.0, 0.0, 10.0]
+Skipping invalid Rectangle: [17.0, 0.0]
+Error processing line: Triangle    1    6    0 - Invalid triangle sides: 1.0, 6.0, 0.0
+Error processing line: Triangle   21    1   12 - Invalid triangle sides: 21.0, 1.0, 12.0
+Skipping invalid Parallelogram: [0.0, 6.0, 8.0]
+Error processing line: Triangle   15    0    3 - Invalid triangle sides: 15.0, 0.0, 3.0
+Error processing line: Triangle    6    3   16 - Invalid triangle sides: 6.0, 3.0, 16.0
+Error processing line: Triangle    6   18    1 - Invalid triangle sides: 6.0, 18.0, 1.0
+Error processing line: Triangle    8   23    6 - Invalid triangle sides: 8.0, 23.0, 6.0
+Error processing line: Triangle    3    3    9 - Invalid triangle sides: 3.0, 3.0, 9.0
+Skipping invalid Trapeze: [11.0, 0.0, 4.0, 22.0]
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle    3    6   16 - Invalid triangle sides: 3.0, 6.0, 16.0
+Error processing line: Triangle    2   11   25 - Invalid triangle sides: 2.0, 11.0, 25.0
+Error processing line: Triangle   13   24    8 - Invalid triangle sides: 13.0, 24.0, 8.0
+Error processing line: Triangle    4   19   12 - Invalid triangle sides: 4.0, 19.0, 12.0
+Error processing line: Triangle    5   18   13 - Invalid triangle sides: 5.0, 18.0, 13.0
+Error processing line: Triangle    5   22    5 - Invalid triangle sides: 5.0, 22.0, 5.0
+Error processing line: Triangle   13   19    5 - Invalid triangle sides: 13.0, 19.0, 5.0
+Error processing line: Triangle    8   13   24 - Invalid triangle sides: 8.0, 13.0, 24.0
+Skipping invalid Rectangle: [7.0, 0.0]
+Skipping invalid Trapeze: [0.0, 23.0, 15.0, 25.0]
+Error processing line: Triangle    3   19    5 - Invalid triangle sides: 3.0, 19.0, 5.0
+Error processing line: Triangle   18   17    0 - Invalid triangle sides: 18.0, 17.0, 0.0
+Error processing line: Triangle    2    9    6 - Invalid triangle sides: 2.0, 9.0, 6.0
+Skipping invalid Trapeze: [24.0, 25.0, 10.0, 0.0]
+Error processing line: Triangle    4   24    6 - Invalid triangle sides: 4.0, 24.0, 6.0
+Skipping invalid Trapeze: [0.0, 13.0, 12.0, 1.0]
+Skipping invalid Parallelogram: [8.0, 0.0, 4.0]
+Error processing line: Triangle   20   13    3 - Invalid triangle sides: 20.0, 13.0, 3.0
+Error processing line: Triangle    3   11   20 - Invalid triangle sides: 3.0, 11.0, 20.0
+Skipping invalid Trapeze: [4.0, 0.0, 17.0, 22.0]
+Skipping invalid Rectangle: [23.0, 0.0]
+Skipping invalid Trapeze: [3.0, 13.0, 0.0, 8.0]
+Error processing line: Triangle   24    8    3 - Invalid triangle sides: 24.0, 8.0, 3.0
+Skipping invalid Rectangle: [0.0, 6.0]
+Error processing line: Triangle    7    0   15 - Invalid triangle sides: 7.0, 0.0, 15.0
+Error processing line: Triangle    7   15    7 - Invalid triangle sides: 7.0, 15.0, 7.0
+Skipping invalid Trapeze: [6.0, 0.0, 10.0, 17.0]
+Error processing line: Triangle    6   23   13 - Invalid triangle sides: 6.0, 23.0, 13.0
+Error processing line: Triangle   14    0    9 - Invalid triangle sides: 14.0, 0.0, 9.0
+Error processing line: Triangle    8    0    6 - Invalid triangle sides: 8.0, 0.0, 6.0
+Skipping invalid Rectangle: [6.0, 0.0]
+Skipping invalid Trapeze: [22.0, 1.0, 0.0, 2.0]
+Error processing line: Triangle    2    8    4 - Invalid triangle sides: 2.0, 8.0, 4.0
+Error processing line: Triangle    3   25   13 - Invalid triangle sides: 3.0, 25.0, 13.0
+Error processing line: Triangle    1   15    1 - Invalid triangle sides: 1.0, 15.0, 1.0
+Error processing line: Triangle    8    4   16 - Invalid triangle sides: 8.0, 4.0, 16.0
+Error processing line: Triangle    5   13   23 - Invalid triangle sides: 5.0, 13.0, 23.0
+Skipping invalid Trapeze: [9.0, 4.0, 0.0, 1.0]
+Error processing line: Triangle    0   24   22 - Invalid triangle sides: 0.0, 24.0, 22.0
+Error processing line: Triangle   18    0   21 - Invalid triangle sides: 18.0, 0.0, 21.0
+Error processing line: Triangle    0    1   16 - Invalid triangle sides: 0.0, 1.0, 16.0
+Error processing line: Triangle    1   15   11 - Invalid triangle sides: 1.0, 15.0, 11.0
+Skipping invalid Trapeze: [15.0, 5.0, 9.0, 0.0]
+Error processing line: Triangle   14    5    7 - Invalid triangle sides: 14.0, 5.0, 7.0
+Skipping invalid Trapeze: [5.0, 14.0, 0.0, 13.0]
+Error processing line: Triangle    2   17    9 - Invalid triangle sides: 2.0, 17.0, 9.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Trapeze: [0.0, 19.0, 9.0, 23.0]
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle    2    0    8 - Invalid triangle sides: 2.0, 0.0, 8.0
+Error processing line: Triangle   23    5   14 - Invalid triangle sides: 23.0, 5.0, 14.0
+Skipping invalid Parallelogram: [18.0, 0.0, 12.0]
+Skipping invalid Rectangle: [9.0, 0.0]
+Error processing line: Triangle   10    3   17 - Invalid triangle sides: 10.0, 3.0, 17.0
+Error processing line: Triangle    0   20   22 - Invalid triangle sides: 0.0, 20.0, 22.0
+Skipping invalid Trapeze: [0.0, 10.0, 22.0, 24.0]
+Skipping invalid Rectangle: [0.0, 23.0]
+Skipping invalid Trapeze: [3.0, 13.0, 8.0, 0.0]
+Skipping invalid Rectangle: [22.0, 0.0]
+Error processing line: Triangle    4   13   19 - Invalid triangle sides: 4.0, 13.0, 19.0
+Error processing line: Triangle   24   15    5 - Invalid triangle sides: 24.0, 15.0, 5.0
+Error processing line: Triangle    6   19    5 - Invalid triangle sides: 6.0, 19.0, 5.0
+Skipping invalid Parallelogram: [4.0, 8.0, 0.0]
+Error processing line: Triangle    1    6    5 - Invalid triangle sides: 1.0, 6.0, 5.0
+Skipping invalid Trapeze: [12.0, 2.0, 0.0, 11.0]
+Skipping invalid Parallelogram: [10.0, 15.0, 0.0]
+Error processing line: Triangle    1    6    4 - Invalid triangle sides: 1.0, 6.0, 4.0
+Error processing line: Triangle   15    2   18 - Invalid triangle sides: 15.0, 2.0, 18.0
+Error processing line: Triangle   22    1   17 - Invalid triangle sides: 22.0, 1.0, 17.0
+Skipping invalid Parallelogram: [3.0, 4.0, 0.0]
+Skipping invalid Parallelogram: [25.0, 0.0, 11.0]
+Error processing line: Triangle   19    0   14 - Invalid triangle sides: 19.0, 0.0, 14.0
+Error processing line: Triangle    0   15   15 - Invalid triangle sides: 0.0, 15.0, 15.0
+Skipping invalid Trapeze: [18.0, 16.0, 0.0, 1.0]
+Skipping invalid Circle: [0.0]
+Skipping invalid Trapeze: [7.0, 0.0, 16.0, 6.0]
+Error processing line: Triangle   22    6    3 - Invalid triangle sides: 22.0, 6.0, 3.0
+Error processing line: Triangle    5   20    0 - Invalid triangle sides: 5.0, 20.0, 0.0
+Skipping invalid Trapeze: [24.0, 10.0, 14.0, 0.0]
+Error processing line: Triangle   11   25    3 - Invalid triangle sides: 11.0, 25.0, 3.0
+Error processing line: Triangle   22   19    0 - Invalid triangle sides: 22.0, 19.0, 0.0
+Skipping invalid Rectangle: [11.0, 0.0]
+Error processing line: Triangle   24    9    1 - Invalid triangle sides: 24.0, 9.0, 1.0
+Skipping invalid Trapeze: [10.0, 0.0, 15.0, 20.0]
+Error processing line: Triangle    4   10   14 - Invalid triangle sides: 4.0, 10.0, 14.0
+Skipping invalid Parallelogram: [18.0, 2.0, 0.0]
+Skipping invalid Trapeze: [16.0, 16.0, 8.0, 0.0]
+Error processing line: Triangle   11    8   19 - Invalid triangle sides: 11.0, 8.0, 19.0
+Error processing line: Triangle    1   24    4 - Invalid triangle sides: 1.0, 24.0, 4.0
+Error processing line: Triangle    5   23    7 - Invalid triangle sides: 5.0, 23.0, 7.0
+Error processing line: Triangle   16   20    2 - Invalid triangle sides: 16.0, 20.0, 2.0
+Error processing line: Triangle    1    9    4 - Invalid triangle sides: 1.0, 9.0, 4.0
+Skipping invalid Trapeze: [16.0, 5.0, 14.0, 0.0]
+Error processing line: Triangle   17    3   22 - Invalid triangle sides: 17.0, 3.0, 22.0
+Error processing line: Triangle    1    0    4 - Invalid triangle sides: 1.0, 0.0, 4.0
+Error processing line: Triangle   10   20    6 - Invalid triangle sides: 10.0, 20.0, 6.0
+Error processing line: Triangle    2   17   10 - Invalid triangle sides: 2.0, 17.0, 10.0
+Skipping invalid Rectangle: [0.0, 16.0]
+Error processing line: Triangle    9   24    1 - Invalid triangle sides: 9.0, 24.0, 1.0
+Error processing line: Triangle    6    0   19 - Invalid triangle sides: 6.0, 0.0, 19.0
+Error processing line: Triangle    2    1   12 - Invalid triangle sides: 2.0, 1.0, 12.0
+Error processing line: Triangle   22    6   16 - Invalid triangle sides: 22.0, 6.0, 16.0
+Skipping invalid Rectangle: [22.0, 0.0]
+Skipping invalid Parallelogram: [21.0, 16.0, 0.0]
+Error processing line: Triangle    2   15    0 - Invalid triangle sides: 2.0, 15.0, 0.0
+Error processing line: Triangle    6   21   13 - Invalid triangle sides: 6.0, 21.0, 13.0
+Error processing line: Triangle    1    6    5 - Invalid triangle sides: 1.0, 6.0, 5.0
+Error processing line: Triangle   25    4    9 - Invalid triangle sides: 25.0, 4.0, 9.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Parallelogram: [3.0, 0.0, 5.0]
+Skipping invalid Circle: [0.0]
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   20    5   14 - Invalid triangle sides: 20.0, 5.0, 14.0
+Skipping invalid Rectangle: [0.0, 0.0]
+Skipping invalid Parallelogram: [19.0, 0.0, 25.0]
+Skipping invalid Rectangle: [2.0, 0.0]
+Error processing line: Triangle   21   19    1 - Invalid triangle sides: 21.0, 19.0, 1.0
+Error processing line: Triangle    0    4   10 - Invalid triangle sides: 0.0, 4.0, 10.0
+Error processing line: Triangle   15    2    8 - Invalid triangle sides: 15.0, 2.0, 8.0
+Error processing line: Triangle   10    5   20 - Invalid triangle sides: 10.0, 5.0, 20.0
+Skipping invalid Parallelogram: [19.0, 15.0, 0.0]
+Skipping invalid Trapeze: [0.0, 19.0, 24.0, 21.0]
+Skipping invalid Trapeze: [21.0, 2.0, 17.0, 0.0]
+Error processing line: Triangle    3   22    9 - Invalid triangle sides: 3.0, 22.0, 9.0
+Skipping invalid Trapeze: [0.0, 18.0, 14.0, 23.0]
+Error processing line: Triangle   23    9    6 - Invalid triangle sides: 23.0, 9.0, 6.0
+Skipping invalid Rectangle: [0.0, 25.0]
+Skipping invalid Parallelogram: [21.0, 0.0, 10.0]
+Shape with maximum area: Circle
+Maximum area: 1963.4954084936207
+Shape with maximum perimeter: Circle
+Maximum perimeter: 157.07963267948966
+Skipping invalid Parallelogram: [0.0, 8.0, 21.0]
+Error processing line: Triangle   14   16    0 - Invalid triangle sides: 14.0, 16.0, 0.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   25   11    3 - Invalid triangle sides: 25.0, 11.0, 3.0
+Error processing line: Triangle    8    9   18 - Invalid triangle sides: 8.0, 9.0, 18.0
+Error processing line: Triangle    1   13   11 - Invalid triangle sides: 1.0, 13.0, 11.0
+Error processing line: Triangle    9   12   22 - Invalid triangle sides: 9.0, 12.0, 22.0
+Error processing line: Triangle    0    1   10 - Invalid triangle sides: 0.0, 1.0, 10.0
+Error processing line: Triangle    3   20    6 - Invalid triangle sides: 3.0, 20.0, 6.0
+Error processing line: Triangle    6   21    9 - Invalid triangle sides: 6.0, 21.0, 9.0
+Error processing line: Triangle    0   20   18 - Invalid triangle sides: 0.0, 20.0, 18.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   13    5   25 - Invalid triangle sides: 13.0, 5.0, 25.0
+Error processing line: Triangle   20    6    2 - Invalid triangle sides: 20.0, 6.0, 2.0
+Error processing line: Triangle    7    6   13 - Invalid triangle sides: 7.0, 6.0, 13.0
+Skipping invalid Trapeze: [12.0, 25.0, 0.0, 21.0]
+Error processing line: Triangle    7   21   13 - Invalid triangle sides: 7.0, 21.0, 13.0
+Error processing line: Triangle   19    6    2 - Invalid triangle sides: 19.0, 6.0, 2.0
+Error processing line: Triangle   22    7   13 - Invalid triangle sides: 22.0, 7.0, 13.0
+Skipping invalid Parallelogram: [17.0, 9.0, 0.0]
+Error processing line: Triangle   21    1    6 - Invalid triangle sides: 21.0, 1.0, 6.0
+Error processing line: Triangle    6   25    1 - Invalid triangle sides: 6.0, 25.0, 1.0
+Error processing line: Triangle    3   14    0 - Invalid triangle sides: 3.0, 14.0, 0.0
+Skipping invalid Parallelogram: [10.0, 0.0, 18.0]
+Error processing line: Triangle   15    0   15 - Invalid triangle sides: 15.0, 0.0, 15.0
+Skipping invalid Trapeze: [10.0, 0.0, 20.0, 5.0]
+Error processing line: Triangle    0   11   25 - Invalid triangle sides: 0.0, 11.0, 25.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   25    5    5 - Invalid triangle sides: 25.0, 5.0, 5.0
+Error processing line: Triangle   13    1   25 - Invalid triangle sides: 13.0, 1.0, 25.0
+Error processing line: Triangle    5   13    7 - Invalid triangle sides: 5.0, 13.0, 7.0
+Error processing line: Triangle   20    3    0 - Invalid triangle sides: 20.0, 3.0, 0.0
+Skipping invalid Parallelogram: [1.0, 0.0, 24.0]
+Error processing line: Triangle    9   25   11 - Invalid triangle sides: 9.0, 25.0, 11.0
+Skipping invalid Rectangle: [0.0, 22.0]
+Error processing line: Triangle    3   10   14 - Invalid triangle sides: 3.0, 10.0, 14.0
+Skipping invalid Trapeze: [2.0, 2.0, 0.0, 17.0]
+Error processing line: Triangle    8    6   22 - Invalid triangle sides: 8.0, 6.0, 22.0
+Error processing line: Triangle    1   13   24 - Invalid triangle sides: 1.0, 13.0, 24.0
+Error processing line: Triangle    1   13   18 - Invalid triangle sides: 1.0, 13.0, 18.0
+Error processing line: Triangle    2   19   13 - Invalid triangle sides: 2.0, 19.0, 13.0
+Error processing line: Triangle   20   15    4 - Invalid triangle sides: 20.0, 15.0, 4.0
+Skipping invalid Parallelogram: [0.0, 8.0, 11.0]
+Error processing line: Triangle   11   25    5 - Invalid triangle sides: 11.0, 25.0, 5.0
+Error processing line: Triangle   18    4    2 - Invalid triangle sides: 18.0, 4.0, 2.0
+Error processing line: Triangle    4    1   23 - Invalid triangle sides: 4.0, 1.0, 23.0
+Skipping invalid Parallelogram: [0.0, 16.0, 7.0]
+Error processing line: Triangle    0    2   24 - Invalid triangle sides: 0.0, 2.0, 24.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Parallelogram: [6.0, 18.0, 0.0]
+Skipping invalid Trapeze: [15.0, 0.0, 1.0, 16.0]
+Error processing line: Triangle    5    7   23 - Invalid triangle sides: 5.0, 7.0, 23.0
+Error processing line: Triangle    9    9   25 - Invalid triangle sides: 9.0, 9.0, 25.0
+Skipping invalid Trapeze: [25.0, 9.0, 0.0, 0.0]
+Skipping invalid Rectangle: [2.0, 0.0]
+Skipping invalid Trapeze: [18.0, 0.0, 25.0, 0.0]
+Error processing line: Triangle   22   16    4 - Invalid triangle sides: 22.0, 16.0, 4.0
+Error processing line: Triangle    8    6    0 - Invalid triangle sides: 8.0, 6.0, 0.0
+Error processing line: Triangle    7   13    5 - Invalid triangle sides: 7.0, 13.0, 5.0
+Error processing line: Triangle    2    4   20 - Invalid triangle sides: 2.0, 4.0, 20.0
+Error processing line: Triangle   16   12    0 - Invalid triangle sides: 16.0, 12.0, 0.0
+Error processing line: Triangle    1   13    8 - Invalid triangle sides: 1.0, 13.0, 8.0
+Error processing line: Triangle   12    3   22 - Invalid triangle sides: 12.0, 3.0, 22.0
+Skipping invalid Rectangle: [0.0, 2.0]
+Skipping invalid Parallelogram: [12.0, 12.0, 0.0]
+Skipping invalid Trapeze: [5.0, 13.0, 21.0, 0.0]
+Skipping invalid Trapeze: [0.0, 1.0, 2.0, 15.0]
+Error processing line: Triangle   11    3   15 - Invalid triangle sides: 11.0, 3.0, 15.0
+Skipping invalid Parallelogram: [0.0, 5.0, 17.0]
+Error processing line: Triangle   12    4    1 - Invalid triangle sides: 12.0, 4.0, 1.0
+Error processing line: Triangle   14   23    5 - Invalid triangle sides: 14.0, 23.0, 5.0
+Error processing line: Triangle   15    3    4 - Invalid triangle sides: 15.0, 3.0, 4.0
+Error processing line: Triangle   15    8    1 - Invalid triangle sides: 15.0, 8.0, 1.0
+Error processing line: Triangle   18    6    6 - Invalid triangle sides: 18.0, 6.0, 6.0
+Error processing line: Triangle    1    8    6 - Invalid triangle sides: 1.0, 8.0, 6.0
+Error processing line: Triangle    2   24   13 - Invalid triangle sides: 2.0, 24.0, 13.0
+Skipping invalid Rectangle: [16.0, 0.0]
+Error processing line: Triangle   24   12    2 - Invalid triangle sides: 24.0, 12.0, 2.0
+Error processing line: Triangle    4    5   21 - Invalid triangle sides: 4.0, 5.0, 21.0
+Error processing line: Triangle    5   10   25 - Invalid triangle sides: 5.0, 10.0, 25.0
+Error processing line: Triangle    6    3   25 - Invalid triangle sides: 6.0, 3.0, 25.0
+Error processing line: Triangle    5    4   24 - Invalid triangle sides: 5.0, 4.0, 24.0
+Skipping invalid Parallelogram: [0.0, 17.0, 0.0]
+Error processing line: Triangle   16    7    2 - Invalid triangle sides: 16.0, 7.0, 2.0
+Error processing line: Triangle    5   24   15 - Invalid triangle sides: 5.0, 24.0, 15.0
+Error processing line: Triangle   13   11   24 - Invalid triangle sides: 13.0, 11.0, 24.0
+Error processing line: Triangle    4   22   11 - Invalid triangle sides: 4.0, 22.0, 11.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Rectangle: [18.0, 0.0]
+Skipping invalid Rectangle: [11.0, 0.0]
+Skipping invalid Rectangle: [21.0, 0.0]
+Error processing line: Triangle    5    7   19 - Invalid triangle sides: 5.0, 7.0, 19.0
+Skipping invalid Parallelogram: [4.0, 17.0, 0.0]
+Error processing line: Triangle   18   20    2 - Invalid triangle sides: 18.0, 20.0, 2.0
+Skipping invalid Parallelogram: [13.0, 7.0, 0.0]
+Error processing line: Triangle   23    2   18 - Invalid triangle sides: 23.0, 2.0, 18.0
+Error processing line: Triangle   20    2   13 - Invalid triangle sides: 20.0, 2.0, 13.0
+Skipping invalid Trapeze: [0.0, 22.0, 3.0, 18.0]
+Error processing line: Triangle   10    1   16 - Invalid triangle sides: 10.0, 1.0, 16.0
+Skipping invalid Trapeze: [1.0, 20.0, 1.0, 0.0]
+Skipping invalid Parallelogram: [0.0, 17.0, 5.0]
+Skipping invalid Rectangle: [0.0, 21.0]
+Error processing line: Triangle    0    6    6 - Invalid triangle sides: 0.0, 6.0, 6.0
+Error processing line: Triangle   10    1    3 - Invalid triangle sides: 10.0, 1.0, 3.0
+Error processing line: Triangle   11    0   24 - Invalid triangle sides: 11.0, 0.0, 24.0
+Error processing line: Triangle    8    3   18 - Invalid triangle sides: 8.0, 3.0, 18.0
+Error processing line: Triangle   12   25    1 - Invalid triangle sides: 12.0, 25.0, 1.0
+Error processing line: Triangle   12    1    8 - Invalid triangle sides: 12.0, 1.0, 8.0
+Error processing line: Triangle   25    8   17 - Invalid triangle sides: 25.0, 8.0, 17.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Parallelogram: [18.0, 0.0, 20.0]
+Error processing line: Triangle    6   20    3 - Invalid triangle sides: 6.0, 20.0, 3.0
+Skipping invalid Parallelogram: [22.0, 0.0, 15.0]
+Skipping invalid Trapeze: [4.0, 2.0, 0.0, 3.0]
+Skipping invalid Trapeze: [17.0, 5.0, 17.0, 0.0]
+Error processing line: Triangle    5   25    6 - Invalid triangle sides: 5.0, 25.0, 6.0
+Error processing line: Triangle    5   21   12 - Invalid triangle sides: 5.0, 21.0, 12.0
+Error processing line: Triangle    5    0    1 - Invalid triangle sides: 5.0, 0.0, 1.0
+Skipping invalid Parallelogram: [0.0, 8.0, 20.0]
+Error processing line: Triangle   16    4    0 - Invalid triangle sides: 16.0, 4.0, 0.0
+Error processing line: Triangle    0    1   25 - Invalid triangle sides: 0.0, 1.0, 25.0
+Error processing line: Triangle   24    8    2 - Invalid triangle sides: 24.0, 8.0, 2.0
+Error processing line: Triangle    5   12    1 - Invalid triangle sides: 5.0, 12.0, 1.0
+Error processing line: Triangle   12    5   22 - Invalid triangle sides: 12.0, 5.0, 22.0
+Error processing line: Triangle   16    5    5 - Invalid triangle sides: 16.0, 5.0, 5.0
+Error processing line: Triangle    1   20   17 - Invalid triangle sides: 1.0, 20.0, 17.0
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   13   10   24 - Invalid triangle sides: 13.0, 10.0, 24.0
+Skipping invalid Rectangle: [0.0, 4.0]
+Error processing line: Triangle    5    2   15 - Invalid triangle sides: 5.0, 2.0, 15.0
+Error processing line: Triangle    4   13    9 - Invalid triangle sides: 4.0, 13.0, 9.0
+Error processing line: Triangle   22   10   10 - Invalid triangle sides: 22.0, 10.0, 10.0
+Skipping invalid Trapeze: [21.0, 23.0, 22.0, 0.0]
+Error processing line: Triangle   23    2   16 - Invalid triangle sides: 23.0, 2.0, 16.0
+Skipping invalid Parallelogram: [21.0, 0.0, 10.0]
+Error processing line: Triangle   11   17    2 - Invalid triangle sides: 11.0, 17.0, 2.0
+Skipping invalid Trapeze: [0.0, 19.0, 4.0, 8.0]
+Skipping invalid Rectangle: [8.0, 0.0]
+Error processing line: Triangle    3   11    4 - Invalid triangle sides: 3.0, 11.0, 4.0
+Skipping invalid Parallelogram: [14.0, 12.0, 0.0]
+Error processing line: Triangle   17    1   20 - Invalid triangle sides: 17.0, 1.0, 20.0
+Error processing line: Triangle    1    4   24 - Invalid triangle sides: 1.0, 4.0, 24.0
+Error processing line: Triangle    8    5   13 - Invalid triangle sides: 8.0, 5.0, 13.0
+Error processing line: Triangle    9   16    7 - Invalid triangle sides: 9.0, 16.0, 7.0
+Error processing line: Triangle    4    3   19 - Invalid triangle sides: 4.0, 3.0, 19.0
+Skipping invalid Trapeze: [1.0, 14.0, 1.0, 0.0]
+Error processing line: Triangle   19   10    8 - Invalid triangle sides: 19.0, 10.0, 8.0
+Error processing line: Triangle    7   14    4 - Invalid triangle sides: 7.0, 14.0, 4.0
+Error processing line: Triangle    1   11    4 - Invalid triangle sides: 1.0, 11.0, 4.0
+Skipping invalid Parallelogram: [6.0, 22.0, 0.0]
+Skipping invalid Parallelogram: [14.0, 8.0, 0.0]
+Error processing line: Triangle   18   20    0 - Invalid triangle sides: 18.0, 20.0, 0.0
+Error processing line: Triangle   14   21    0 - Invalid triangle sides: 14.0, 21.0, 0.0
+Error processing line: Triangle    1    8    2 - Invalid triangle sides: 1.0, 8.0, 2.0
+Error processing line: Triangle   24   20    0 - Invalid triangle sides: 24.0, 20.0, 0.0
+Error processing line: Triangle    9    5   16 - Invalid triangle sides: 9.0, 5.0, 16.0
+Error processing line: Triangle    7    3    3 - Invalid triangle sides: 7.0, 3.0, 3.0
+Error processing line: Triangle    8    6   19 - Invalid triangle sides: 8.0, 6.0, 19.0
+Error processing line: Triangle    0    2    1 - Invalid triangle sides: 0.0, 2.0, 1.0
+Skipping invalid Parallelogram: [12.0, 0.0, 10.0]
+Skipping invalid Rectangle: [17.0, 0.0]
+Error processing line: Triangle    1    6    0 - Invalid triangle sides: 1.0, 6.0, 0.0
+Error processing line: Triangle   21    1   12 - Invalid triangle sides: 21.0, 1.0, 12.0
+Skipping invalid Parallelogram: [0.0, 6.0, 8.0]
+Error processing line: Triangle   15    0    3 - Invalid triangle sides: 15.0, 0.0, 3.0
+Error processing line: Triangle    6    3   16 - Invalid triangle sides: 6.0, 3.0, 16.0
+Error processing line: Triangle    6   18    1 - Invalid triangle sides: 6.0, 18.0, 1.0
+Error processing line: Triangle    8   23    6 - Invalid triangle sides: 8.0, 23.0, 6.0
+Error processing line: Triangle    3    3    9 - Invalid triangle sides: 3.0, 3.0, 9.0
+Skipping invalid Trapeze: [11.0, 0.0, 4.0, 22.0]
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle    3    6   16 - Invalid triangle sides: 3.0, 6.0, 16.0
+Error processing line: Triangle    2   11   25 - Invalid triangle sides: 2.0, 11.0, 25.0
+Error processing line: Triangle   13   24    8 - Invalid triangle sides: 13.0, 24.0, 8.0
+Error processing line: Triangle    4   19   12 - Invalid triangle sides: 4.0, 19.0, 12.0
+Error processing line: Triangle    5   18   13 - Invalid triangle sides: 5.0, 18.0, 13.0
+Error processing line: Triangle    5   22    5 - Invalid triangle sides: 5.0, 22.0, 5.0
+Error processing line: Triangle   13   19    5 - Invalid triangle sides: 13.0, 19.0, 5.0
+Error processing line: Triangle    8   13   24 - Invalid triangle sides: 8.0, 13.0, 24.0
+Skipping invalid Rectangle: [7.0, 0.0]
+Skipping invalid Trapeze: [0.0, 23.0, 15.0, 25.0]
+Error processing line: Triangle    3   19    5 - Invalid triangle sides: 3.0, 19.0, 5.0
+Error processing line: Triangle   18   17    0 - Invalid triangle sides: 18.0, 17.0, 0.0
+Error processing line: Triangle    2    9    6 - Invalid triangle sides: 2.0, 9.0, 6.0
+Skipping invalid Trapeze: [24.0, 25.0, 10.0, 0.0]
+Error processing line: Triangle    4   24    6 - Invalid triangle sides: 4.0, 24.0, 6.0
+Skipping invalid Trapeze: [0.0, 13.0, 12.0, 1.0]
+Skipping invalid Parallelogram: [8.0, 0.0, 4.0]
+Error processing line: Triangle   20   13    3 - Invalid triangle sides: 20.0, 13.0, 3.0
+Error processing line: Triangle    3   11   20 - Invalid triangle sides: 3.0, 11.0, 20.0
+Skipping invalid Trapeze: [4.0, 0.0, 17.0, 22.0]
+Skipping invalid Rectangle: [23.0, 0.0]
+Skipping invalid Trapeze: [3.0, 13.0, 0.0, 8.0]
+Error processing line: Triangle   24    8    3 - Invalid triangle sides: 24.0, 8.0, 3.0
+Skipping invalid Rectangle: [0.0, 6.0]
+Error processing line: Triangle    7    0   15 - Invalid triangle sides: 7.0, 0.0, 15.0
+Error processing line: Triangle    7   15    7 - Invalid triangle sides: 7.0, 15.0, 7.0
+Skipping invalid Trapeze: [6.0, 0.0, 10.0, 17.0]
+Error processing line: Triangle    6   23   13 - Invalid triangle sides: 6.0, 23.0, 13.0
+Error processing line: Triangle   14    0    9 - Invalid triangle sides: 14.0, 0.0, 9.0
+Error processing line: Triangle    8    0    6 - Invalid triangle sides: 8.0, 0.0, 6.0
+Skipping invalid Rectangle: [6.0, 0.0]
+Skipping invalid Trapeze: [22.0, 1.0, 0.0, 2.0]
+Error processing line: Triangle    2    8    4 - Invalid triangle sides: 2.0, 8.0, 4.0
+Error processing line: Triangle    3   25   13 - Invalid triangle sides: 3.0, 25.0, 13.0
+Error processing line: Triangle    1   15    1 - Invalid triangle sides: 1.0, 15.0, 1.0
+Error processing line: Triangle    8    4   16 - Invalid triangle sides: 8.0, 4.0, 16.0
+Error processing line: Triangle    5   13   23 - Invalid triangle sides: 5.0, 13.0, 23.0
+Skipping invalid Trapeze: [9.0, 4.0, 0.0, 1.0]
+Error processing line: Triangle    0   24   22 - Invalid triangle sides: 0.0, 24.0, 22.0
+Error processing line: Triangle   18    0   21 - Invalid triangle sides: 18.0, 0.0, 21.0
+Error processing line: Triangle    0    1   16 - Invalid triangle sides: 0.0, 1.0, 16.0
+Error processing line: Triangle    1   15   11 - Invalid triangle sides: 1.0, 15.0, 11.0
+Skipping invalid Trapeze: [15.0, 5.0, 9.0, 0.0]
+Error processing line: Triangle   14    5    7 - Invalid triangle sides: 14.0, 5.0, 7.0
+Skipping invalid Trapeze: [5.0, 14.0, 0.0, 13.0]
+Error processing line: Triangle    2   17    9 - Invalid triangle sides: 2.0, 17.0, 9.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Trapeze: [0.0, 19.0, 9.0, 23.0]
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle    2    0    8 - Invalid triangle sides: 2.0, 0.0, 8.0
+Error processing line: Triangle   23    5   14 - Invalid triangle sides: 23.0, 5.0, 14.0
+Skipping invalid Parallelogram: [18.0, 0.0, 12.0]
+Skipping invalid Rectangle: [9.0, 0.0]
+Error processing line: Triangle   10    3   17 - Invalid triangle sides: 10.0, 3.0, 17.0
+Error processing line: Triangle    0   20   22 - Invalid triangle sides: 0.0, 20.0, 22.0
+Skipping invalid Trapeze: [0.0, 10.0, 22.0, 24.0]
+Skipping invalid Rectangle: [0.0, 23.0]
+Skipping invalid Trapeze: [3.0, 13.0, 8.0, 0.0]
+Skipping invalid Rectangle: [22.0, 0.0]
+Error processing line: Triangle    4   13   19 - Invalid triangle sides: 4.0, 13.0, 19.0
+Error processing line: Triangle   24   15    5 - Invalid triangle sides: 24.0, 15.0, 5.0
+Error processing line: Triangle    6   19    5 - Invalid triangle sides: 6.0, 19.0, 5.0
+Skipping invalid Parallelogram: [4.0, 8.0, 0.0]
+Error processing line: Triangle    1    6    5 - Invalid triangle sides: 1.0, 6.0, 5.0
+Skipping invalid Trapeze: [12.0, 2.0, 0.0, 11.0]
+Skipping invalid Parallelogram: [10.0, 15.0, 0.0]
+Error processing line: Triangle    1    6    4 - Invalid triangle sides: 1.0, 6.0, 4.0
+Error processing line: Triangle   15    2   18 - Invalid triangle sides: 15.0, 2.0, 18.0
+Error processing line: Triangle   22    1   17 - Invalid triangle sides: 22.0, 1.0, 17.0
+Skipping invalid Parallelogram: [3.0, 4.0, 0.0]
+Skipping invalid Parallelogram: [25.0, 0.0, 11.0]
+Error processing line: Triangle   19    0   14 - Invalid triangle sides: 19.0, 0.0, 14.0
+Error processing line: Triangle    0   15   15 - Invalid triangle sides: 0.0, 15.0, 15.0
+Skipping invalid Trapeze: [18.0, 16.0, 0.0, 1.0]
+Skipping invalid Circle: [0.0]
+Skipping invalid Trapeze: [7.0, 0.0, 16.0, 6.0]
+Error processing line: Triangle   22    6    3 - Invalid triangle sides: 22.0, 6.0, 3.0
+Error processing line: Triangle    5   20    0 - Invalid triangle sides: 5.0, 20.0, 0.0
+Skipping invalid Trapeze: [24.0, 10.0, 14.0, 0.0]
+Error processing line: Triangle   11   25    3 - Invalid triangle sides: 11.0, 25.0, 3.0
+Error processing line: Triangle   22   19    0 - Invalid triangle sides: 22.0, 19.0, 0.0
+Skipping invalid Rectangle: [11.0, 0.0]
+Error processing line: Triangle   24    9    1 - Invalid triangle sides: 24.0, 9.0, 1.0
+Skipping invalid Trapeze: [10.0, 0.0, 15.0, 20.0]
+Error processing line: Triangle    4   10   14 - Invalid triangle sides: 4.0, 10.0, 14.0
+Skipping invalid Parallelogram: [18.0, 2.0, 0.0]
+Skipping invalid Trapeze: [16.0, 16.0, 8.0, 0.0]
+Error processing line: Triangle   11    8   19 - Invalid triangle sides: 11.0, 8.0, 19.0
+Error processing line: Triangle    1   24    4 - Invalid triangle sides: 1.0, 24.0, 4.0
+Error processing line: Triangle    5   23    7 - Invalid triangle sides: 5.0, 23.0, 7.0
+Error processing line: Triangle   16   20    2 - Invalid triangle sides: 16.0, 20.0, 2.0
+Error processing line: Triangle    1    9    4 - Invalid triangle sides: 1.0, 9.0, 4.0
+Skipping invalid Trapeze: [16.0, 5.0, 14.0, 0.0]
+Error processing line: Triangle   17    3   22 - Invalid triangle sides: 17.0, 3.0, 22.0
+Error processing line: Triangle    1    0    4 - Invalid triangle sides: 1.0, 0.0, 4.0
+Error processing line: Triangle   10   20    6 - Invalid triangle sides: 10.0, 20.0, 6.0
+Error processing line: Triangle    2   17   10 - Invalid triangle sides: 2.0, 17.0, 10.0
+Skipping invalid Rectangle: [0.0, 16.0]
+Error processing line: Triangle    9   24    1 - Invalid triangle sides: 9.0, 24.0, 1.0
+Error processing line: Triangle    6    0   19 - Invalid triangle sides: 6.0, 0.0, 19.0
+Error processing line: Triangle    2    1   12 - Invalid triangle sides: 2.0, 1.0, 12.0
+Error processing line: Triangle   22    6   16 - Invalid triangle sides: 22.0, 6.0, 16.0
+Skipping invalid Rectangle: [22.0, 0.0]
+Skipping invalid Parallelogram: [21.0, 16.0, 0.0]
+Error processing line: Triangle    2   15    0 - Invalid triangle sides: 2.0, 15.0, 0.0
+Error processing line: Triangle    6   21   13 - Invalid triangle sides: 6.0, 21.0, 13.0
+Error processing line: Triangle    1    6    5 - Invalid triangle sides: 1.0, 6.0, 5.0
+Error processing line: Triangle   25    4    9 - Invalid triangle sides: 25.0, 4.0, 9.0
+Skipping invalid Circle: [0.0]
+Skipping invalid Parallelogram: [3.0, 0.0, 5.0]
+Skipping invalid Circle: [0.0]
+Skipping invalid Circle: [0.0]
+Error processing line: Triangle   20    5   14 - Invalid triangle sides: 20.0, 5.0, 14.0
+Skipping invalid Rectangle: [0.0, 0.0]
+Skipping invalid Parallelogram: [19.0, 0.0, 25.0]
+Skipping invalid Rectangle: [2.0, 0.0]
+Error processing line: Triangle   21   19    1 - Invalid triangle sides: 21.0, 19.0, 1.0
+Error processing line: Triangle    0    4   10 - Invalid triangle sides: 0.0, 4.0, 10.0
+Error processing line: Triangle   15    2    8 - Invalid triangle sides: 15.0, 2.0, 8.0
+Error processing line: Triangle   10    5   20 - Invalid triangle sides: 10.0, 5.0, 20.0
+Skipping invalid Parallelogram: [19.0, 15.0, 0.0]
+Skipping invalid Trapeze: [0.0, 19.0, 24.0, 21.0]
+Skipping invalid Trapeze: [21.0, 2.0, 17.0, 0.0]
+Error processing line: Triangle    3   22    9 - Invalid triangle sides: 3.0, 22.0, 9.0
+Skipping invalid Trapeze: [0.0, 18.0, 14.0, 23.0]
+Error processing line: Triangle   23    9    6 - Invalid triangle sides: 23.0, 9.0, 6.0
+Skipping invalid Rectangle: [0.0, 25.0]
+Skipping invalid Parallelogram: [21.0, 0.0, 10.0]
+Shape with maximum area: Circle
+Maximum area: 1963.4954084936207
+Shape with maximum perimeter: Circle
+Maximum perimeter: 157.07963267948966
