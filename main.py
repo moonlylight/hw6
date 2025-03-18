@@ -23,7 +23,7 @@ class Triangle:
         try:
             return math.sqrt(area)
         except ValueError:
-            return 0  # Якщо результат негативний, повертаємо 0
+            return 0
 
     def perimeter(self):
         return self.a + self.b + self.c
@@ -108,26 +108,49 @@ def read_input(file_path):
     shapes = []
     with open(file_path, 'r') as f:
         for line in f:
-            data = line.strip().split()
-            shape_type = data[0]
-            params = list(map(float, data[1:]))
+            try:
+                data = line.strip().split()
+                shape_type = data[0]
+                params = list(map(float, data[1:]))
 
-            if shape_type == "Triangle":
-                shapes.append(Triangle(*params))
-            elif shape_type == "Rectangle":
-                shapes.append(Rectangle(*params))
-            elif shape_type == "Trapeze":
-                shapes.append(Trapeze(*params))
-            elif shape_type == "Parallelogram":
-                shapes.append(Parallelogram(*params))
-            elif shape_type == "Circle":
-                shapes.append(Circle(*params))
+                if shape_type == "Triangle":
+                    shape = Triangle(*params)
+                    if shape.is_valid():
+                        shapes.append(shape)
+                    else:
+                        print(f"Skipping invalid Triangle: {params}")
+
+                elif shape_type == "Rectangle":
+                    if params[0] > 0 and params[1] > 0:
+                        shapes.append(Rectangle(*params))
+                    else:
+                        print(f"Skipping invalid Rectangle: {params}")
+
+                elif shape_type == "Trapeze":
+                    if all(p > 0 for p in params):
+                        shapes.append(Trapeze(*params))
+                    else:
+                        print(f"Skipping invalid Trapeze: {params}")
+
+                elif shape_type == "Parallelogram":
+                    if params[0] > 0 and params[1] > 0 and params[2] > 0:
+                        shapes.append(Parallelogram(*params))
+                    else:
+                        print(f"Skipping invalid Parallelogram: {params}")
+
+                elif shape_type == "Circle":
+                    if params[0] > 0:
+                        shapes.append(Circle(*params))
+                    else:
+                        print(f"Skipping invalid Circle: {params}")
+
+            except (ValueError, IndexError) as e:
+                print(f"Error processing line: {line.strip()} - {e}")
 
     return shapes
 
 
 if __name__ == "__main__":
-    # Зчитуємо всі файли і об'єднуємо результати
     all_shapes = []
     for file_name in ['input01.txt', 'input02.txt', 'input03.txt']:
         all_shapes.extend(read_input(file_name))
@@ -148,5 +171,3 @@ if __name__ == "__main__":
             print("No valid shape found for maximum perimeter")
     except Exception as e:
         print(f"An error occurred: {e}")
-
-
